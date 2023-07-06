@@ -1,0 +1,6 @@
+# Parameters for K Nearest neighbour ML method
+# NOTE: All params are separated by a space.
+# 
+
+n_neighbors	3 5 7
+algorithm	auto ball_tree kd_tree brute

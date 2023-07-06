@@ -1,0 +1,8 @@
+# Parameters for Partial Least Square Regression ML method
+# NOTE: All params are separated by a space.
+#
+
+n_components	2 4 6
+max_iter	500 1000 1500 2000
+tol		1 0.001 0.000001 0.000000001
+

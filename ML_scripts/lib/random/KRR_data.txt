@@ -1,0 +1,8 @@
+# Parameters for Kernel Ridge Regression ML method
+# NOTE: All params are separated by a space.
+# 	The # marker is a comment line
+
+kernel 	rbf sigmoid linear polynomial
+alpha	log	1e-9 1e2
+gamma	log	1e-9 1e2
+

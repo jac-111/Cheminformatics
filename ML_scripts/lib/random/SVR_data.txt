@@ -1,0 +1,9 @@
+# Parameters for Support Vector Regression ML method
+# NOTE: All params are separated by a space.
+#
+
+
+kernel  rbf sigmoid
+C   100 1 0.01 0.0001
+gamma   100 1 0.01 0.0001
+

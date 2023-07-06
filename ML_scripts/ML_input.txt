@@ -1,0 +1,28 @@
+#	Here are the input parameters for the ML script to parse
+#	White space does not matter
+
+#	Splitting TMQM dataset
+
+TMQM_portion	1
+training_split	0.6
+num_racs	151
+num_data_bins	5
+
+#	Cross validation search settings
+
+CV_folds	5
+CV_grid		0
+CV_random	1
+CV_random_iter	100
+
+#	Which ML algorithms to activate
+KNeighboursRegression	0
+PLSRegression		0
+StochasticGradient	0
+KRR			0
+SVR			0
+MLPRegression		1
+
+#
+CrossValidation 	1
+#
